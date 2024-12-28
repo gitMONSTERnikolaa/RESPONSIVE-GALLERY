@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galerija Slika</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Galerija Slika</h1>
+    <p>Gallery.</p>
+    <div class="gallery">
+        <div class="thumb">
+            <link="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3schools.com%2Fhowto%2Fhowto_js_image_comparison.asp&psig=AOvVaw07sZLDPrFTZRjZUJOS5Ngr&ust=1735511410292000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMilp_3By4oDFQAAAAAdAAAAABAx" alt="Thumb 1">
+        </div>
+        <div class="thumb">
+            <link="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bikewale.com%2Fktm-bikes%2Fduke-390%2Fimages%2F&psig=AOvVaw07sZLDPrFTZRjZUJOS5Ngr&ust=1735511410292000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMilp_3By4oDFQAAAAAdAAAAABAE" alt="Thumb 2">
+        </div>
+        <div class="thumb">
+            <link="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3schools.com%2Fhowto%2Fhowto_css_images_side_by_side.asp&psig=AOvVaw07sZLDPrFTZRjZUJOS5Ngr&ust=1735511410292000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMilp_3By4oDFQAAAAAdAAAAABAT" alt="water.jpg">
+        </div>
+        <div class="thumb">
+            <link="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftiger&psig=AOvVaw07sZLDPrFTZRjZUJOS5Ngr&ust=1735511410292000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMilp_3By4oDFQAAAAAdAAAAABBF" alt="Thumb 4">
+        </div>
+        <div class="thumb">
+            <link="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fdog%2F&psig=AOvVaw07sZLDPrFTZRjZUJOS5Ngr&ust=1735511410292000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMilp_3By4oDFQAAAAAdAAAAABBs"
+        </div>
+    </div>
+</body>
+</html>
